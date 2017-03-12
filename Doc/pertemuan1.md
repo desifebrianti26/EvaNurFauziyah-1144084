@@ -34,13 +34,13 @@ Membuat program untuk operasi aritmatika lebih dari satu operator dengan menggun
 Source Code:<br>
 <p align="center">
 <br>
-<img src="../Image/sourcecode1.JPG" width="400" height="700">
+<img src="../Image/sourcecode1.JPG" width="700" height="700">
 </p><br>
 
 Output:<br>
 <p align="center">
 <br>
-<img src="../Image/tugas1.JPG" width="400" height="200">
+<img src="../Image/tugas1.JPG" width="500" height="200">
 </p><br>
 <br>
 <strong>PENUTUP</strong><br>
