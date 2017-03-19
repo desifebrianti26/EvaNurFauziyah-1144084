@@ -1,4 +1,4 @@
-<h2 align="center">PENDAHULUAN KECERDASAN BUATAN - Pertemuan ke-1 KECERDASAN BUATAN<br></h2>
+<h2 align="center">REPRESENTASI PENGETAHUAN - Pertemuan ke-2 KECERDASAN BUATAN<br></h2>
 <p align="center">
 <br>
 <img src="../Image/pertemuan2.JPG" width="400" height="400">
@@ -24,7 +24,7 @@ Example: Perempuan(eva)<br>
 <i>Contoh 2</i><br>
 <p align="center">
 <br>
-<img src="../Image/contoh_pertemuan2.JPG" width="200" height="300">
+<img src="../Image/contoh_pertemuan2.JPG" width="300" height="200">
 </p><br>
 Ortu (Bono, Beni)        x        anak (Beni, Bono)<br>
 Ortu (Beni, Cinta)       x        anak (Cinta, Beni)<br>
@@ -67,7 +67,7 @@ Source Code:<br>
 Output:<br>
 <p align="center">
 <br>
-<img src="../Image/tugas1.JPG" width="500" height="200">
+<img src="../Image/hasilpertemuan2.JPG" width="500" height="200">
 </p><br>
 <br>
 <strong>PENUTUP</strong><br>
