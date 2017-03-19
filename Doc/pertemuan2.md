@@ -24,7 +24,7 @@ Example: Perempuan(eva)<br>
 <i>Contoh 2</i><br>
 <p align="center">
 <br>
-<img src="../Image/contoh_pertemuan2.JPG" width="300" height="200">
+<img src="../Image/contoh_pertemuan2.JPG" width="250" height="200">
 </p><br>
 Ortu (Bono, Beni)        x        anak (Beni, Bono)<br>
 Ortu (Beni, Cinta)       x        anak (Cinta, Beni)<br>
@@ -38,7 +38,7 @@ A=Beni B=Cinta<br>
 Peta
 <p align="center">
 <br>
-<img src="../Image/contoh2_pertemuan2.JPG" width="200" height="300">
+<img src="../Image/contoh2_pertemuan2.JPG" width="300" height="300">
 </p><br>
 Mainroud (Sarijadi, Pasteur)<br>
 Mainroud(Pasteur, Gedung Sate)<br>
